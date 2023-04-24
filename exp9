@@ -1,0 +1,6 @@
+fruit(mango).
+fruit(banana).
+fruit(orange).
+has(seema,mange).
+has(sameer,banana).
+has(payal,orange).
